@@ -1,2 +1,3 @@
-# audio_processing_submodule
-Submodule to be used in audio processing projects
+# pydub-implenenfation-submodule
+Submodule to be used in future projects using pydub
+Class containing variables for data types and methods for commonly used functionality
